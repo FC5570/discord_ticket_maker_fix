@@ -5,7 +5,7 @@ class DiscordTicket {
     db.delete(`ticketRole_${message.guild.id}`);
     db.set(`ticketRole_${message.guild.id}`, role);
     message.channel.send(
-      `:white_check_mark: | Ticket role has been successfully set to ${role}. This is the role which will be pinged whenever a ticket is made.`
+      `:white_check_mark: | Ticket role has been successfully set to **${role.name}**. This is the role which will be pinged whenever a ticket is made.`
     );
   }
 
