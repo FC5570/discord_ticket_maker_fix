@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "discord_ticket_maker_fix@2.0.0",
+      "D:\\My Files\\Projects\\Discord Bots\\Anthem"
+    ]
+  ],
+  "_from": "discord_ticket_maker_fix@2.0.0",
+  "_id": "discord_ticket_maker_fix@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-rCNchD2ZuQzE84PdM7vVm7iJ06fYgby+ieL255qVDsC9S4YZVuVIaLWQXQb9KfOFFAEuTaNCTostsUUUXtFwrg==",
+  "_location": "/discord_ticket_maker_fix",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "discord_ticket_maker_fix@2.0.0",
+    "name": "discord_ticket_maker_fix",
+    "escapedName": "discord_ticket_maker_fix",
+    "rawSpec": "2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord_ticket_maker_fix/-/discord_ticket_maker_fix-2.0.0.tgz",
+  "_spec": "2.0.0",
+  "_where": "D:\\My Files\\Projects\\Discord Bots\\Anthem",
+  "author": {
+    "name": "FC"
+  },
+  "dependencies": {
+    "quick.db": "^7.1.1"
+  },
+  "description": "Just a fix for personal use",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discord_ticket_maker_fix",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.5.0"
+}
